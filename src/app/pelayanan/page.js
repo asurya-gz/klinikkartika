@@ -10,8 +10,8 @@ import {
 
 export default function Pelayanan() {
   return (
-    <div className="h-screen bg-white flex flex-col items-center justify-center py-12">
-      <h3 className="text-3xl font-bold text-green-700 mb-8">
+    <div className="min-h-screen bg-white flex flex-col items-center justify-center py-8">
+      <h3 className="text-3xl font-bold text-green-700 mb-8 text-center">
         Pelayanan Di <br />
         Klinik Kartika
       </h3>

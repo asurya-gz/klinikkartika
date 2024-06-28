@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Utama() {
   return (
-    <div className="h-screen w-full bg-white flex flex-col items-center justify-center">
+    <div className="h-full min-h-screen bg-white flex flex-col items-center justify-center">
       <h2 className="text-3xl font-bold text-green-700 mb-4 animate-fade-in">
         Selamat datang di
       </h2>

@@ -2,14 +2,14 @@ import React from "react";
 
 export default function VisiMisi() {
   return (
-    <div className="h-screen flex flex-col justify-center items-center bg-gray-100">
-      <div className="max-w-4xl mx-auto p-8 bg-white rounded-lg shadow-md">
+    <div className="min-h-screen flex flex-col justify-center items-center bg-gray-100">
+      <div className="max-w-full md:max-w-4xl mx-auto p-4 md:p-8 bg-white rounded-lg shadow-md">
         <h3 className="text-3xl font-bold text-center mb-6 text-green-700 border-b-4 border-green-700 pb-2">
           Visi, Misi, dan Motto
         </h3>
         <div className="mb-8">
           <div className="mb-6">
-            <h4 className="text-xl font-semibold mb-2 border-b-2 border-gray-300 pb-1 ">
+            <h4 className="text-xl font-semibold mb-2 border-b-2 border-gray-300 pb-1">
               Visi
             </h4>
             <p className="text-gray-700 leading-relaxed">

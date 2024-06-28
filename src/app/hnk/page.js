@@ -4,8 +4,8 @@ import Link from "next/link";
 
 export default function Hak() {
   return (
-    <div className="h-[170vh] bg-gray-100 flex flex-col justify-center items-center">
-      <div className="max-w-4xl w-full mx-auto p-8 bg-white rounded-lg shadow-md">
+    <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center py-8">
+      <div className="max-w-4xl w-full mx-auto p-4 md:p-8 bg-white rounded-lg shadow-md">
         <h3 className="text-3xl font-bold text-center mb-6 text-green-700 border-b-4 border-green-700 pb-2">
           Hak dan Kewajiban Pasien
         </h3>

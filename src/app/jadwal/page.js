@@ -2,7 +2,7 @@ import React from "react";
 
 export default function JadwalPraktik() {
   return (
-    <div className="h-[65vh] bg-white py-12 px-4 sm:px-6 lg:px-8 mt-10">
+    <div className="py-12 px-4 sm:px-6 lg:px-8 mt-10 bg-white">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-3xl font-bold text-center text-green-700 mb-8">
           Jadwal Praktik Dokter
