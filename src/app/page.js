@@ -1,4 +1,3 @@
-"use client";
 import React from "react";
 import Utama from "./utama/page";
 import Pelayanan from "./pelayanan/page";
