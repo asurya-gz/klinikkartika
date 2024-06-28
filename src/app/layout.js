@@ -7,7 +7,7 @@ export const metadata = {
   title: "Klinik Kartika",
   description: "Created By Agung Surya Permana",
   icons: {
-    icon: ["/logo.png"],
+    icon: ["/logoklinik.png"],
   },
 };
 
