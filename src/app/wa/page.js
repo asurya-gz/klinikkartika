@@ -7,7 +7,7 @@ const WhatsAppFloating = () => {
 
   const openWhatsApp = () => {
     let message = "Hallo Klinik Kartika!";
-    let phoneNumber = "+6282123026162"; // Ganti dengan nomor WhatsApp yang sesuai
+    let phoneNumber = "+6282249906957"; // Ganti dengan nomor WhatsApp yang sesuai
     let url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(
       message
     )}`;
